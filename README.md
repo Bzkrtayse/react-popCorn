@@ -5,6 +5,10 @@ view detailed information, and manage a list of watched movies.
 The app provides functionality to add movies to a watched list, rate them,
 and view summaries of the movies.
 
+![popCorn-1](https://github.com/user-attachments/assets/fe2337c5-0c82-4e54-a138-e879aa07191b)
+
+![popCorn-2](https://github.com/user-attachments/assets/504b384f-c49d-40c6-8f67-197a16931a0c)
+
 ## Features
 
 - **Search Movies**: Search for movies by title using the search bar(minimum length:3).
@@ -51,3 +55,4 @@ Open App.js and replace the KEY variable with your OMDb API key.(line:10)
    `npm start`
 
 3. Open your browser and navigate to `http://localhost:3000`.
+
